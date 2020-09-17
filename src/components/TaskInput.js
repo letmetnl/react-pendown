@@ -1,13 +1,14 @@
 import React, { Component } from "react";
 
-export default class takingInput extends Component {
+export default class TaskInput extends Component {
   render() {
+    const { item, handleChange, handleSubmit } = this.props;
     return (
       <div className="card card-body my-3">
-        <form>
+        <form onSubmit={handleSubmit}>
           <div className="input-group">
             <div className="input-group-prepend">
-              <div className="input-group-text bg-primary text-red">
+              <div className="input-group-text bg-primary text-white">
                 <i className="fas fa-book"></i>
               </div>
             </div>
@@ -15,6 +16,8 @@ export default class takingInput extends Component {
               type="text"
               className="form-control text-capitalize"
               placeholder="Pen Down Your head"
+              value={item}
+              onChange={handleChange}
             />
           </div>
           <button type="submit" className="btn btn-block btn-primary mt-3">
