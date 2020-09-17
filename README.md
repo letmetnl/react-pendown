@@ -1,3 +1,5 @@
+Visit the App live at: http://letmetnl.github.io/react-pendown
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -13,6 +15,7 @@ App plan:
 Component Structure
 
     App
+
       TodoInput
       TodoList >> TodoItem
     Make UI using JSX and Bootstrap
