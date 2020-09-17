@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-pendown/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-pendown/static/js/main.47461215.chunk.js",
+    "main.js.map": "/react-pendown/static/js/main.47461215.chunk.js.map",
+    "runtime-main.js": "/react-pendown/static/js/runtime-main.cd493a51.js",
+    "runtime-main.js.map": "/react-pendown/static/js/runtime-main.cd493a51.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/react-pendown/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c33e272f.chunk.js": "/react-pendown/static/js/2.c33e272f.chunk.js",
+    "static/js/2.c33e272f.chunk.js.map": "/react-pendown/static/js/2.c33e272f.chunk.js.map",
+    "index.html": "/react-pendown/index.html",
+    "precache-manifest.e76a0e74a0ce98f49762f33e26f31410.js": "/react-pendown/precache-manifest.e76a0e74a0ce98f49762f33e26f31410.js",
+    "service-worker.js": "/react-pendown/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/react-pendown/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-pendown/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c33e272f.chunk.js.LICENSE.txt": "/react-pendown/static/js/2.c33e272f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd493a51.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c33e272f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.47461215.chunk.js"
+  ]
+}
